@@ -1,0 +1,56 @@
+{
+  "jogos": [
+    {
+      "id": "2",
+      "titulo": "Minecraft",
+      "genero": "Sandbox",
+      "plataforma": "PC",
+      "nota": 9,
+      "status": "Jogando"
+    },
+    {
+      "id": "3",
+      "titulo": "Counter-Strike 2",
+      "genero": "Tiro em Primeira Pessoa",
+      "plataforma": "PC",
+      "nota": 8,
+      "status": "Quero jogar"
+    },
+    {
+      "id": "4",
+      "titulo": "League of Legends",
+      "genero": "MOBA",
+      "plataforma": "PC",
+      "nota": 7,
+      "status": "Jogando"
+    },
+    {
+      "id": "5",
+      "titulo": "The Legend of Zelda: Breath of the Wild",
+      "genero": "Aventura / RPG",
+      "plataforma": "PC",
+      "nota": 10,
+      "status": "Finalizado"
+    },
+    {
+      "id": "6",
+      "titulo": "Valorant",
+      "genero": "Tiro em Primeira Pessoa",
+      "plataforma": "PC",
+      "nota": 8,
+      "status": "Abandonado"
+    },
+    {
+      "id": "eic04SWXEzY"
+    },
+    {
+      "titulo": "The Sims 4",
+      "genero": "RPG",
+      "plataforma": "PC",
+      "nota": 10,
+      "status": "Quero jogar",
+      "id": "crTHcmgGKlY"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
